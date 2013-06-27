@@ -1,0 +1,4 @@
+numero de control: 10030248
+nombre: ADRIAN MAURICIO MACIAS RIOS
+semestre: 7
+materia: programacion web
